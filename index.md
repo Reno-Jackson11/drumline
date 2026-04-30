@@ -2,5 +2,6 @@
 title: Home
 ---
 
-# Hello world
+DRUMLINE
+========
 This is my Jekyll site!
