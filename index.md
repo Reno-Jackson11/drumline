@@ -1,7 +1,15 @@
 ---
-title: Home
+title: Danish Taxi Porn
 ---
 
 DRUMLINE
 ========
-<span style="font-family: cursive;">Your text here</span>
+This is the website for all things drumline! check out our:
+
+SCORES
+======
+
+or maybe our 
+
+RESOURCES
+=========
