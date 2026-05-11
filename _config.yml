@@ -1,2 +1,6 @@
-title: My Site
-theme: slate
+title: Drumline Hub
+description: Drumline scores, resources, and percussion content
+theme: jekyll-theme-slate
+
+show_downloads: false
+google_analytics:
