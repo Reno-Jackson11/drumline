@@ -20,7 +20,7 @@ You're in the right place.
 ## What We Got
 
 ### Scores
-Here in the Hub, you can check out our growing collection of drumline compositions and arrangements.
+Here in ***the Hub***, you can check out our growing collection of drumline compositions and arrangements.
 
 [Go to Scores](scores.md)
 
