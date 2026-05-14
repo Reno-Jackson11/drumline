@@ -3,13 +3,13 @@ layout: default
 title: Resources
 ---
 
-# 📚 Drumline Resources
+# Drumline Resources
 
 Everything you need to improve your playing and understanding.
 
 ---
 
-## 🥁 Technique
+## Technique
 
 ### Stick Control
 - Focus on rebound and consistency
@@ -32,7 +32,7 @@ Essential rudiments to master:
 
 ---
 
-## 🎼 Composition Tips
+## Composition Tips
 
 - Write with **players in mind**
 - Balance difficulty across sections
@@ -41,16 +41,17 @@ Essential rudiments to master:
 
 ---
 
-## 🎧 Listening
+## Listening
 
 Study top drumlines and ensembles:
 - DCI groups
+- EMCproductions
 - Indoor percussion ensembles
 - Military drumlines
 
 ---
 
-## 🛠 Tools
+## Tools
 
 - Notation software (MuseScore, Finale, Sibelius)
 - Metronomes
@@ -58,15 +59,15 @@ Study top drumlines and ensembles:
 
 ---
 
-## 📈 Practice Strategy
+## Practice Strategy
 
-- Practice daily, even short sessions
+- Practice daily, even short sessions (40 minutes)
 - Record yourself
 - Use a metronome at all times
 - Break difficult passages into chunks
 
 ---
 
-## 🚀 Want More?
+## Want More?
 
-Check back often, this page will grow over time.
+Check back often, this page will grow over time (I fucking hope)
