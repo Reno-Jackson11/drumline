@@ -40,6 +40,9 @@ Have questions, feedback, or want to collaborate with The Hub??
 
 ---
 
+### Cool Shit
+Just cool stuff.
+[see cool shit](cool.md)
 ## About This Site
 
 This site is dedicated to:
